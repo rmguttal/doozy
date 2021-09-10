@@ -1,0 +1,199 @@
+.divHeaderMain {
+  display: flex;
+  height: 35em;
+  width: 100%;
+  align-items: center;
+  margin-bottom: 1em;
+}
+
+.divHeaderLogo {
+  height: 300px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+}
+
+.imgHeaderLogo {
+  height: 100%;
+  width: 300px;
+  z-index: 5;
+}
+
+.divHeaderVideo {
+  height: 35em;
+  width: 100%;
+  position: absolute;
+}
+
+.videoHeaderVideo {
+  height: 35em;
+  width: 100%;
+  opacity: 1;
+  object-position: center center;
+  object-fit: cover;
+}
+
+.divHeaderMenuMain {
+  display: flex;
+  z-index: 5;
+  align-self: flex-end;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.btnHeaderMenu {
+  background-color: #f2f2f2;
+  color: black;
+  height: 1.5em;
+  width: 8em;
+  margin: 1em 3em;
+  padding: 0.2em 0.5em;
+  font-family: Montserrat;
+  font-size: 0.9em;
+  font-weight: 450;
+  border-width: 1px;
+  border-radius: 3px;
+  box-shadow: 0px 0px 10px black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btnHeaderMenu:hover {
+  cursor: pointer;
+}
+
+.divMenuCard {
+  margin: 4em 5em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  font-family: Montserrat;
+}
+
+.imgMenuCardItem {
+  height: 20em;
+  width: auto;
+  display: block;
+}
+
+.divMenuCardOverlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 95%;
+  background: rgba(0, 0, 0, 0.6);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+.divMenuCardOverlay > * {
+  transform: translateY(20px);
+  transition: transform 0.5s;
+}
+
+.divMenuCardOverlay:hover {
+  opacity: 1;
+  cursor: pointer;
+}
+
+.divMenuCardOverlay:hover > * {
+  transform: translateY(0);
+}
+
+.pMenuCardOverlayTxt {
+  font-size: 15px;
+  padding: 1em;
+}
+
+.divMenuCardtxt {
+  margin-top: -1em;
+  z-index: 2;
+  background-color: white;
+  border: 1px solid black;
+  width: 12em;
+  height: 2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 3px;
+  font-size: 15px;
+  font-weight: 450;
+}
+
+.divTestimonialMain {
+  margin: 0em 5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.divSlider {
+  width: 25em;
+  height: auto;
+}
+
+.sliderTestimonial {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.imgTestimonial {
+  width: 25em;
+  height: auto;
+}
+
+.divContactMain {
+  margin: 4em 5em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Montserrat;
+}
+
+.pContactPhoneNumber {
+  font-size: 20px;
+}
+
+.divContactIcons {
+  margin: 2em;
+}
+
+.btnBackToTop {
+  background-color: rgb(196, 192, 192);
+  color: black;
+  height: 2em;
+  width: 10em;
+  margin: 2em;
+  padding: "0.2em 0.5em";
+  font-family: Montserrat;
+  font-size: 1em;
+  font-weight: 450;
+  border-width: 0px;
+  border-radius: 3px;
+  box-shadow: 0px 0px 2px black;
+  cursor: pointer;
+}
+
+.btnBackToTop:hover {
+  background-color: rgb(121, 121, 121);
+  color: white;
+}
+
+.divFooterMain {
+  display: flex;
+  justify-content: center;
+}
