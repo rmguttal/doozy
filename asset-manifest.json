@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/doozy/static/css/main.b5e3b3b1.chunk.css",
-    "main.js": "/doozy/static/js/main.8429dfe8.chunk.js",
-    "main.js.map": "/doozy/static/js/main.8429dfe8.chunk.js.map",
+    "main.js": "/doozy/static/js/main.544b7f8b.chunk.js",
+    "main.js.map": "/doozy/static/js/main.544b7f8b.chunk.js.map",
     "runtime-main.js": "/doozy/static/js/runtime-main.d38ba34f.js",
     "runtime-main.js.map": "/doozy/static/js/runtime-main.d38ba34f.js.map",
     "static/css/2.363f3d8d.chunk.css": "/doozy/static/css/2.363f3d8d.chunk.css",
@@ -19,9 +19,9 @@
     "static/media/Doozy Logo_FINAL copy.a7a38e3f.png": "/doozy/static/media/Doozy Logo_FINAL copy.a7a38e3f.png",
     "static/media/IMG-20210325-WA0014_edited.57fed877.jpg": "/doozy/static/media/IMG-20210325-WA0014_edited.57fed877.jpg",
     "static/media/IMG_2511.JPG_edited.2b5b0bf6.jpg": "/doozy/static/media/IMG_2511.JPG_edited.2b5b0bf6.jpg",
-    "static/media/Testimonial 1.ccbd8ffd.jpg": "/doozy/static/media/Testimonial 1.ccbd8ffd.jpg",
-    "static/media/Testimonial 2.e80b9318.jpg": "/doozy/static/media/Testimonial 2.e80b9318.jpg",
-    "static/media/Testimonial 3.62980c73.jpg": "/doozy/static/media/Testimonial 3.62980c73.jpg",
+    "static/media/Testimonial 1.7ad0caf6.png": "/doozy/static/media/Testimonial 1.7ad0caf6.png",
+    "static/media/Testimonial 2.db98d2c4.png": "/doozy/static/media/Testimonial 2.db98d2c4.png",
+    "static/media/Testimonial 3.a008899b.png": "/doozy/static/media/Testimonial 3.a008899b.png",
     "static/media/assorted.2f0f4db8.jpg": "/doozy/static/media/assorted.2f0f4db8.jpg",
     "static/media/bananaLoaf.0abe4e96.jpg": "/doozy/static/media/bananaLoaf.0abe4e96.jpg",
     "static/media/dac.854a2c3a.jpg": "/doozy/static/media/dac.854a2c3a.jpg",
@@ -40,6 +40,6 @@
     "static/css/2.363f3d8d.chunk.css",
     "static/js/2.151c5025.chunk.js",
     "static/css/main.b5e3b3b1.chunk.css",
-    "static/js/main.8429dfe8.chunk.js"
+    "static/js/main.544b7f8b.chunk.js"
   ]
 }
