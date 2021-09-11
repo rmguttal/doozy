@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/doozy/static/css/main.7df2cea0.chunk.css",
-    "main.js": "/doozy/static/js/main.fed828eb.chunk.js",
-    "main.js.map": "/doozy/static/js/main.fed828eb.chunk.js.map",
-    "runtime-main.js": "/doozy/static/js/runtime-main.d38ba34f.js",
-    "runtime-main.js.map": "/doozy/static/js/runtime-main.d38ba34f.js.map",
-    "static/css/2.363f3d8d.chunk.css": "/doozy/static/css/2.363f3d8d.chunk.css",
-    "static/js/2.395f979f.chunk.js": "/doozy/static/js/2.395f979f.chunk.js",
-    "static/js/2.395f979f.chunk.js.map": "/doozy/static/js/2.395f979f.chunk.js.map",
-    "static/js/3.aab51fa4.chunk.js": "/doozy/static/js/3.aab51fa4.chunk.js",
-    "static/js/3.aab51fa4.chunk.js.map": "/doozy/static/js/3.aab51fa4.chunk.js.map",
+    "main.js": "/doozy/static/js/main.1e54d28f.chunk.js",
+    "main.js.map": "/doozy/static/js/main.1e54d28f.chunk.js.map",
+    "runtime-main.js": "/doozy/static/js/runtime-main.26f3285e.js",
+    "runtime-main.js.map": "/doozy/static/js/runtime-main.26f3285e.js.map",
+    "static/css/2.e8231276.chunk.css": "/doozy/static/css/2.e8231276.chunk.css",
+    "static/js/2.92894db4.chunk.js": "/doozy/static/js/2.92894db4.chunk.js",
+    "static/js/2.92894db4.chunk.js.map": "/doozy/static/js/2.92894db4.chunk.js.map",
+    "static/js/3.c8939dbf.chunk.js": "/doozy/static/js/3.c8939dbf.chunk.js",
+    "static/js/3.c8939dbf.chunk.js.map": "/doozy/static/js/3.c8939dbf.chunk.js.map",
     "index.html": "/doozy/index.html",
-    "static/css/2.363f3d8d.chunk.css.map": "/doozy/static/css/2.363f3d8d.chunk.css.map",
+    "static/css/2.e8231276.chunk.css.map": "/doozy/static/css/2.e8231276.chunk.css.map",
     "static/css/main.7df2cea0.chunk.css.map": "/doozy/static/css/main.7df2cea0.chunk.css.map",
-    "static/js/2.395f979f.chunk.js.LICENSE.txt": "/doozy/static/js/2.395f979f.chunk.js.LICENSE.txt",
+    "static/js/2.92894db4.chunk.js.LICENSE.txt": "/doozy/static/js/2.92894db4.chunk.js.LICENSE.txt",
     "static/media/28 - InShot_20210809_162640100.c78b2814.mp4": "/doozy/static/media/28 - InShot_20210809_162640100.c78b2814.mp4",
     "static/media/DM.13cc2edb.jpg": "/doozy/static/media/DM.13cc2edb.jpg",
     "static/media/Doozy Logo_FINAL copy.a7a38e3f.png": "/doozy/static/media/Doozy Logo_FINAL copy.a7a38e3f.png",
@@ -31,15 +31,16 @@
     "static/media/khaara.96884a01.jpg": "/doozy/static/media/khaara.96884a01.jpg",
     "static/media/of.c25b3e9d.jpg": "/doozy/static/media/of.c25b3e9d.jpg",
     "static/media/pupNibbles.8a04b6df.jpg": "/doozy/static/media/pupNibbles.8a04b6df.jpg",
+    "static/media/styles.css": "/doozy/static/media/revicons.e8746a62.woff",
     "static/media/slick-theme.css": "/doozy/static/media/slick.c94f7671.ttf",
     "static/media/spLoaf.cc8f8f0c.jpg": "/doozy/static/media/spLoaf.cc8f8f0c.jpg",
     "static/media/tableVideo.cbbe52ee.mp4": "/doozy/static/media/tableVideo.cbbe52ee.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.d38ba34f.js",
-    "static/css/2.363f3d8d.chunk.css",
-    "static/js/2.395f979f.chunk.js",
+    "static/js/runtime-main.26f3285e.js",
+    "static/css/2.e8231276.chunk.css",
+    "static/js/2.92894db4.chunk.js",
     "static/css/main.7df2cea0.chunk.css",
-    "static/js/main.fed828eb.chunk.js"
+    "static/js/main.1e54d28f.chunk.js"
   ]
 }
