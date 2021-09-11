@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/doozy/static/css/main.7df2cea0.chunk.css",
+    "main.css": "/doozy/static/css/main.723a411e.chunk.css",
     "main.js": "/doozy/static/js/main.1e54d28f.chunk.js",
     "main.js.map": "/doozy/static/js/main.1e54d28f.chunk.js.map",
     "runtime-main.js": "/doozy/static/js/runtime-main.26f3285e.js",
@@ -12,7 +12,7 @@
     "static/js/3.c8939dbf.chunk.js.map": "/doozy/static/js/3.c8939dbf.chunk.js.map",
     "index.html": "/doozy/index.html",
     "static/css/2.e8231276.chunk.css.map": "/doozy/static/css/2.e8231276.chunk.css.map",
-    "static/css/main.7df2cea0.chunk.css.map": "/doozy/static/css/main.7df2cea0.chunk.css.map",
+    "static/css/main.723a411e.chunk.css.map": "/doozy/static/css/main.723a411e.chunk.css.map",
     "static/js/2.92894db4.chunk.js.LICENSE.txt": "/doozy/static/js/2.92894db4.chunk.js.LICENSE.txt",
     "static/media/28 - InShot_20210809_162640100.c78b2814.mp4": "/doozy/static/media/28 - InShot_20210809_162640100.c78b2814.mp4",
     "static/media/DM.13cc2edb.jpg": "/doozy/static/media/DM.13cc2edb.jpg",
@@ -40,7 +40,7 @@
     "static/js/runtime-main.26f3285e.js",
     "static/css/2.e8231276.chunk.css",
     "static/js/2.92894db4.chunk.js",
-    "static/css/main.7df2cea0.chunk.css",
+    "static/css/main.723a411e.chunk.css",
     "static/js/main.1e54d28f.chunk.js"
   ]
 }
